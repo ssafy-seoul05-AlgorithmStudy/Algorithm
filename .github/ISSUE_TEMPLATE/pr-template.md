@@ -1,12 +1,3 @@
----
-name: PR Template
-about: '알고리즘 문제 PR 템플릿 입니다. '
-title: "[O월 O주차] 주제번호.주제_본인이름"
-labels: ''
-assignees: ''
-
----
-
 ## 📌 주어진 문제를 다 풀었나요?
 - [ ] 네
 - [ ] 아니요
