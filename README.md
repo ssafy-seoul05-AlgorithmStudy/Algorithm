@@ -7,7 +7,7 @@
   <tr>
   <td align="center"><a href="https://github.com/dldush"><img src="https://avatars.githubusercontent.com/u/173419436?v=4" width="100px;" alt=""/><br />
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leecarus0301" widt="100px">
-      <br /><sub><b>이연호</b></sub></a><br /><sub><b>소개</b><br>MBTI</br></sub></td>
+      <br /><sub><b>이연호</b></sub></a><br /><sub><b>소개</b><br>INTP</br></sub></td>
     
   <td align="center"><a href="https://github.com/LeeSeongHui"><img src="https://avatars.githubusercontent.com/u/44632544?v=4" width="100px;" alt=""/><br />
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yam3472" widt="100px">
