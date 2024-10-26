@@ -54,8 +54,12 @@ ex) 2.MST/BOJ1234/BOJ1234_hyunjin.java
 
 ## PR 규칙 :twisted_rightwards_arrows:
 ### PR 제목 : [월/주차] 주제_본인 이름(또는 본인 브랜치 이름)
-ex) [8월 1주차] 0.입출력 및 사칙연산_김현진
+ex) [10월 4주차] 3.백트래킹_김현진
+
+
+<br>
 
 ### PR 내용 : pr 템플릿 이용
+<img width="500" alt="스크린샷 2024-10-26 오후 4 35 00" src="https://github.com/user-attachments/assets/120c6bbc-0b9a-4826-b097-74c9ba8d5416">
 
 <br>
