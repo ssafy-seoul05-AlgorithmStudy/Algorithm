@@ -1,4 +1,4 @@
-package backtracking;
+package 백트래킹;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,9 +6,8 @@ import java.util.List;
 import java.util.Scanner;
 
 // BOJ14889_스타트와 링크
-// 재귀 2번 돌리기 / for문 돌면서 값 비교
-// 메모리 : 28548KB / 36228KB
-// 시간 : 288ms / 312ms
+// 메모리 : 28548KB 
+// 시간 : 288ms
 
 public class BOJ14889_hyunjin {
 	static int N, M, combCnt, teamAbility;
@@ -67,7 +66,7 @@ public class BOJ14889_hyunjin {
 
 		List<Integer> scoreArr = new ArrayList<>();
 		for (int[] intArr : team) {
-			System.out.println(Arrays.toString(intArr));
+//			System.out.println(Arrays.toString(intArr));
 			int t = 0;
 			
 			for(int i :intArr) {
@@ -77,10 +76,10 @@ public class BOJ14889_hyunjin {
 				}
 			}
 			
-			System.out.println(t);
+//			System.out.println(t);
 			scoreArr.add(t);
 		}
-		System.out.println(scoreArr);
+//		System.out.println(scoreArr);
 		
 		
 		// 3. 능력치의 차이 최소값 구하기
